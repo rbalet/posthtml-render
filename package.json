@@ -1,5 +1,5 @@
 {
-  "name": "posthtml-render",
+  "name": "posthtml-renderer-vscode-sorting-attrs",
   "version": "1.1.4",
   "description": "Renders PostHTML Tree to HTML/XML",
   "author": "Ivan Voischev <voischev.ivan@ya.ru>",
@@ -28,7 +28,7 @@
     "html",
     "xml"
   ],
-  "bugs": "https://github.com/posthtml/posthtml-render/issues",
-  "homepage": "https://github.com/posthtml/posthtml-render#readme",
-  "repository": "https://github.com/posthtml/posthtml-render.git"
+  "bugs": "https://github.com/rbalet/posthtml-renderer-vscode-sorting-attrs/issues",
+  "homepage": "https://github.com/rbalet/posthtml-renderer-vscode-sorting-attrs#readme",
+  "repository": "https://github.com/rbalet/posthtml-renderer-vscode-sorting-attrs.git"
 }
